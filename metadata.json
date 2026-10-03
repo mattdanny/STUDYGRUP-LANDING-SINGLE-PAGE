@@ -1,0 +1,6 @@
+{
+  "name": "STUDYGRUPMAHASISWA INFO",
+  "description": "Info Update Link Terbaru Website Apps STUDYGRUPMAHASISWA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
