@@ -64,6 +64,21 @@ export default function HomePage() {
           </a>
         </p>
 
+        {/* Study Group Files Access Section */}
+        <p className="mt-6 text-sm sm:text-base text-[#4b5563]">
+          Akses Materi Belajar Studygrup File :
+        </p>
+        <p className="mt-2 text-base sm:text-lg">
+          <a
+            href="https://msha.ke/studygrup.file"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#0000ee] hover:text-[#0000aa] underline font-medium break-all transition-colors"
+          >
+            https://msha.ke/studygrup.file
+          </a>
+        </p>
+
         {/* Notice 1 */}
         <p className="mt-8 text-sm sm:text-base text-[#4b5563] font-medium">
           Apa yang sudah tertakar tidak akan tertukar ^^
